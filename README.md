@@ -1,6 +1,7 @@
 # Fabio Rabelo
 
 **Automação com IA · Sites e ferramentas web · Professor**
+
 *AI automation · Web pages and tools · Teacher* — [English below](#english)
 
 Sou professor de Geografia e Filosofia e construo automações e ferramentas web para pequenos negócios e escolas. Desenvolvo com agentes de IA (Claude Code e Codex), e cada entrega passa por testes e revisão humana antes de chegar ao cliente.
